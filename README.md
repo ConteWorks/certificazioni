@@ -27,7 +27,9 @@ Questo repository raccoglie i miei attestati di corsi di formazione in ambito sv
 ## Corso Back-End –  Java & SQL
 *Il certificato non riporta il dettaglio degli argomenti trattati.*
 
-- Fondamenti di **Database relazionali** e **SQL**
+- **Database relazionali** e **SQL**
+  - query e operazioni CRUD
+  - **procedure**, **funzioni** e gestione delle transazioni (**COMMIT / ROLLBACK**)
 - **Java**: programmazione di base e avanzata
 - **Java OOP** e **Design Pattern**
 - Build e dependency management con **Maven**
