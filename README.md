@@ -20,20 +20,22 @@ Questo repository raccoglie i miei attestati di corsi di formazione in ambito sv
 - Framework front-end moderno (**React**)
 - **Responsive design**, accessibilità e usabilità
 
+**Periodo:** 06/11/2025 – 03/12/2025 (160 ore)
+
 ---
 
 ## Corso Back-End – Academy Java
 *Il certificato non riporta il dettaglio degli argomenti trattati.*
 
-- Database relazionali e **SQL**
-- **Java**: fondamenti
+- Fondamenti di **Database relazionali** e **SQL**
+- **Java**: programmazione di base e avanzata
 - **Java OOP** e **Design Pattern**
-- **Java Enterprise**
-- **Spring Boot**
-- Sviluppo di **API REST**
 - Build e dependency management con **Maven**
+- Framework Java per applicazioni web (**Spring Boot**)
+- Sviluppo di **API REST**
 - Architettura **client-server**
 
-**Periodo:** 15/09/2025 – 24/10/2025 (240 ore)
+**Periodo:** 22/09/2025 – 31/10/2025 (240 ore)
 
+---
 
