@@ -7,7 +7,7 @@ Questo repository raccoglie i miei attestati di corsi di formazione in ambito sv
 - **Corso Front-End Web Developer (2025)**  
   [Visualizza attestato](./attestatofrequenza_CNTGPP96C19A091Q_040PROTD2586128.pdf)
 
-- **Corso Back-End – Academy Java (2025)**  
+- **Corso Back-End – Java & SQL (2025)**  
   [Visualizza attestato](./attestatofrequenza_CNTGPP96C19A091Q_019PROTD2570254.pdf)
 
 ---
@@ -24,7 +24,7 @@ Questo repository raccoglie i miei attestati di corsi di formazione in ambito sv
 
 ---
 
-## Corso Back-End – Academy Java
+## Corso Back-End –  Java & SQL
 *Il certificato non riporta il dettaglio degli argomenti trattati.*
 
 - Fondamenti di **Database relazionali** e **SQL**
