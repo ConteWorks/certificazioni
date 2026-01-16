@@ -10,6 +10,10 @@ Questo repository raccoglie i miei attestati di corsi di formazione in ambito sv
 - **Corso Back-End – Java & SQL (2025)**  
   [Visualizza attestato](./attestatofrequenza_CNTGPP96C19A091Q_019PROTD2570254.pdf)
 
+ - **Formazione dei Lavoratori – Generale (D.Lgs. 81/08)**  
+  Durata: 4 ore – Modalità FAD sincrona  
+  Data: 03/12/2025  
+  [Visualizza attestato](./attestatofrequenza_CNTGPP96C19A091Q_05105_2025.pdf)
 ---
 
 ## Corso Front-End Web Developer
