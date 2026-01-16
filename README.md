@@ -13,7 +13,7 @@ Questo repository raccoglie i miei attestati di corsi di formazione in ambito sv
  - **Formazione dei Lavoratori – Generale (D.Lgs. 81/08)**  
   Durata: 4 ore – Modalità FAD sincrona  
   Data: 03/12/2025  
-  [Visualizza attestato](./attestatofrequenza_CNTGPP96C19A091Q_05105_2025.pdf)
+  [Visualizza attestato](./Conte_SA150372.pdf)
 ---
 
 ## Corso Front-End Web Developer
